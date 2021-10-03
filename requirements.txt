@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+plotly
+wordcloud
+sklearn
+sentence-transformers
+regex
+nltk
+ipywidgets
